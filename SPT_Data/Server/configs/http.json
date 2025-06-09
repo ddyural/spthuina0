@@ -1,0 +1,9 @@
+{
+    "ip": "26.33.66.202",
+    "port": 6969,
+    "backendIp": "26.33.66.202",
+    "backendPort": 6969,
+    "webSocketPingDelayMs": 90000,
+    "logRequests": true,
+    "serverImagePathOverride": {}
+}

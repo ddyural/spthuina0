@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "Russian",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "C:\\SPT",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "SpermaSobaki",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "https://26.33.66.202:6969"
+  }
+}
